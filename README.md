@@ -2,49 +2,62 @@
 
 resize the image to 224x224 before push dataset to repo
 
-## List Dataset
-- [x] Sate
-- [x] Bika ambon
-- [x] nasi goreng
-- [x] Gado-gado
+## List Makanan
+- [ ] Asinan
 - [x] Bakso
-- [x] rendang
-- [x] gulai ikan
-- [x] Soto
-- [x] nasi uduk
-- [x] tempe goreng
-- [x] Kerak Telor
-- [ ] Sop Buntut
-- [ ] Serabi
+- [x] Bala-bala
+- [x] batagor
+- [x] Bebek betutu
+- [x] Bika ambon
+- [x] Gado-gado
+- [x] Gehu
 - [x] Gudeg
+- [x] gulai ikan
+- [ ] Karedok
+- [x] Kerak Telor
+- [ ] ketoprak
+- [x] Kolak
+- [ ] Lumpia
+- [x] mie aceh
+- [x] nasi goreng
+- [x] nasi uduk
+- [ ] Opor Ayam
+- [x] Otak-otak
+- [ ] Pecel Lele
+- [x] pempek
+- [x] pepes ikan
+- [x] perkedel kentang
+- [x] pisang goreng
 - [x] Rawon
 - [ ] Rujak Cingur
-- [ ] Lumpia
-- [ ] Pecel Lele
-- [ ] Opor Ayam
-- [ ] Kari kambing
-- [ ] lempah kuning
-- [ ] Bubur ayam
-- [ ] Asinan
-- [x] pempek
-- [ ] sayur asem
-- [ ] perkedel kentang
-- [ ] ketoprak
-- [ ] tahu gejrot
-- [x] Otak-otak
-- [ ] lontong
-- [x] Gehu
-- [x] Bala-bala
-- [x] pisang goreng
-- [ ] Karedok
-- [x] Kolak
-- [x] Bebek betutu
-- [x] batagor
+- [x] rendang
+- [x] Sate
 - [x] semur jengkol
-- [x] mie aceh
-- [x] Tempe bacem
+- [ ] Sop Buntut
+- [x] Soto
+- [ ] Surabi
+- [x] tahu gejrot
 - [x] Telur balado
-- [x] pepes ikan
+- [x] Tempe bacem
+- [x] tempe goreng
+
+# List Jajanan Tradisional
+- [] Ali Agrem
+- [] Bugis
+- [x] Dadar Gulung
+- [] Gemblong
+- [] Gethuk Lindri
+- [] Klepon
+- [x] Kue Cubit
+- [x] Kue Cucur
+- [] Kue Lapis
+- [] Nagasari
+- [] Putu Ayu
+- [] Putu Mayang
+- [] Wingko
+
+
+
 
 
 For more information, see [this docs](https://docs.google.com/document/d/1yhrjP8ZpOxtqymVZXDt745WQSpA5_TH3Xr3-z1-aApk/edit)
